@@ -1,8 +1,5 @@
 # Athena's Intern — SEDS BPHC Avionics Round 1 Induction Task
 
-**Name:** Ojasvi Cheruku
-**ID:** 2025AAPS0226H
-
 Two tasks, both themed around getting Odysseus and crew back to Ithaca in one piece: a sea-floor depth visualizer (Python) and an onboard hazard-monitoring state machine (Arduino, simulated in Tinkercad).
 
 ---

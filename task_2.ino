@@ -2,10 +2,7 @@
   SEDS BPHC Avionics Round 1 Induction - "Athena's Intern"
   Task 2: Keeping Watch Over Odysseus
 
-  Name: Ojasvi Cheruku
-  ID:   2025AAPS0226H
-
-  Components (wire these up in Tinkercad):
+   Components (wire these up in Tinkercad):
     - Arduino Uno
     - HC-SR04 ultrasonic distance sensor  -> TRIG_PIN, ECHO_PIN
     - Photoresistor (light sensor) in a voltage divider -> LIGHT_PIN (analog)
